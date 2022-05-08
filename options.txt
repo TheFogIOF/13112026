@@ -33,7 +33,7 @@ graphicsMode:0
 ao:0
 biomeBlendRadius:2
 renderClouds:fast
-resourcePacks:["vanilla","file/Deafult"]
+resourcePacks:["vanilla","file/Deafult.zip"]
 incompatibleResourcePacks:["vanilla"]
 lastServer:RoBlox67.aternos.me
 lang:yi_de
