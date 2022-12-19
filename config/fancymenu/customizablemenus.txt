@@ -1,0 +1,26 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiOptions {
+}
+
+net.minecraft.client.gui.GuiVideoSettings {
+}
+
+net.minecraft.client.gui.ScreenChatOptions {
+}
+
+net.minecraft.client.gui.GuiScreenOptionsSounds {
+}
+
+net.minecraft.client.multiplayer.GuiConnecting {
+}
+
+net.minecraft.client.gui.GuiIngameMenu {
+}
+
+net.minecraft.client.gui.GuiMultiplayer {
+}
+
+net.minecraft.client.gui.GuiControls {
+}
+

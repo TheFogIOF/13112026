@@ -1,0 +1,113 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=4000%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 104
+}
+
+customization {
+  identifier = %id=4000%
+  width = 109
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=4000%
+  action = setbuttonlabel
+  value = Настройки микрофона
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 152
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 80
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  width = 118
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  action = setbuttonlabel
+  value = Вернуться к сессии
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 128
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 109
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  action = setbuttonlabel
+  value = Настройки
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_pausescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  action = hidebutton
+}
+

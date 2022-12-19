@@ -1,0 +1,105 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiScreenOptionsSounds
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=425298%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 104
+}
+
+customization {
+  identifier = %id=425298%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505202%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505250%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 128
+}
+
+customization {
+  identifier = %id=345154%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345202%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345250%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 80
+}
+
+customization {
+  identifier = %id=400334%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505178%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505226%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345178%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345226%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345274%
+  action = hidebutton
+}
+
